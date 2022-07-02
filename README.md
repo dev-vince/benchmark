@@ -7,3 +7,4 @@ A comparison for multiple event buses used commonly in minecraft clients
 * Zane's HomoBus
 * Azura event bus
 * Google's event bus
+* Google's evnet bus (async)
